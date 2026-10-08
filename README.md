@@ -1,5 +1,6 @@
 # Hi, I'm Kirill 👋
 
+```bash
 $ whoami
 > Student | OS & Kernel Developer | RISC-V Enthusiast
 
@@ -8,6 +9,7 @@ $ uname -a
 
 $ cat /proc/current_focus
 > Building a microkernel for ESP32-C3 based on xv6
+```
 
 ## 📚 About Me
 
@@ -42,13 +44,15 @@ Architectures
 
 Simple RTOS based on the xv6(but my thing is a microkernel), adapted for the RISC-V ESP32-C3 microcontroller.
 
+```text
 [+] Bootloader ............ OK<br>
 [+] UART Driver ........... OK<br>
 [+] Context Switching ..... OK<br>
 [/] Trap handling ......... 80%<br>
 [-] Syscalls .............. 80%<br>
-[\] Memory Management ..... 0%<br>
+[\\] Memory Management ..... 0%<br>
 [-] IPC ................... 0%<br>
+```
 
 C, Assembly(RISC-V), GNU Linker Script, CMake, gcc(risc64)
 
