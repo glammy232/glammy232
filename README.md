@@ -23,7 +23,7 @@ $ cat /proc/current_focus
 
 🛠️ I write low-level code: microkernels, drivers, bare-metal<br>
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 Languages
 <p align="left">
@@ -38,20 +38,20 @@ Architectures
     <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
     <img src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
-### 🚀 Current Project
+## 🚀 Current Project
 
 🦀 Microkernel for ESP32-C3 (RISC-V)
 
 Simple RTOS based on the xv6(but my thing is a microkernel), adapted for the RISC-V ESP32-C3 microcontroller.
 
 ```text
-[+] Bootloader ............ OK<br>
-[+] UART Driver ........... OK<br>
-[+] Context Switching ..... OK<br>
-[/] Trap handling ......... 80%<br>
-[-] Syscalls .............. 80%<br>
-[\\] Memory Management ..... 0%<br>
-[-] IPC ................... 0%<br>
+[+] Bootloader ............ OK
+[+] UART Driver ........... OK
+[+] Context Switching ..... OK
+[/] Trap handling ......... 80%
+[-] Syscalls .............. 80%
+[\] Memory Management ..... 0%
+[-] IPC ................... 0%
 ```
 
 C, Assembly(RISC-V), GNU Linker Script, CMake, gcc(risc64)
