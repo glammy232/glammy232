@@ -9,7 +9,19 @@ $ uname -a
 $ cat /proc/current_focus
 > Building a microkernel for ESP32-C3 based on xv6
 
-## 🔧 Tech Stack
+## 📚 About Me
+
+🎓 1st year of university<br>
+
+🏫 I am studying at the Prosoft Systems development school<br>
+
+🧠 I study the architecture of the OS, ARM, x86 and RISC-V<br>
+
+❤️ I love RISC-V the most<br>
+
+🛠️ I write low-level code: microkernels, drivers, bare-metal<br>
+
+### 🔧 Tech Stack
 
 Languages
 <p align="left">
@@ -18,25 +30,25 @@ Languages
     <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
-## Architectures
+Architectures
 <p align="left">
     <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
     <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
     <img src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
-🚀 Current Project
+### 🚀 Current Project
 
 🦀 Microkernel for ESP32-C3 (RISC-V)
 
 Simple RTOS based on the xv6(but my thing is a microkernel), adapted for the RISC-V ESP32-C3 microcontroller.
 
-[+] Bootloader ............ OK
-[+] UART Driver ........... OK
-[+] Context Switching ..... OK
-[/] Trap handling ......... 80%
-[-] Syscalls .............. 80%
-[\] Memory Management ..... 0%
-[-] IPC ................... 0%
+[+] Bootloader ............ OK<br>
+[+] UART Driver ........... OK<br>
+[+] Context Switching ..... OK<br>
+[/] Trap handling ......... 80%<br>
+[-] Syscalls .............. 80%<br>
+[\] Memory Management ..... 0%<br>
+[-] IPC ................... 0%<br>
 
 C, Assembly(RISC-V), GNU Linker Script, CMake, gcc(risc64)
 
