@@ -12,16 +12,17 @@ $ cat /proc/current_focus
 ## 🔧 Tech Stack
 
 Languages
-
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white
+<p align="left">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+</p>
 
 ## Architectures
-
-https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white
-https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white
-https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white
+<p align="left">
+    <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 🚀 Current Project
 
