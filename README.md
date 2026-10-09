@@ -1,16 +1,5 @@
 # Hi, I'm Kirill 👋
 
-```bash
-$ whoami
-> Student | OS & Kernel Developer | RISC-V Enthusiast
-
-$ uname -a
-> Kirill 1.0.0 riscv32 GNU/Linux
-
-$ cat /proc/current_focus
-> Building a microkernel for ESP32-C3 based on xv6
-```
-
 ## 📚 About Me
 
 🎓 1st year of university<br>
