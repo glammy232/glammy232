@@ -27,21 +27,3 @@ Architectures
     <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
     <img src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
-## 🚀 Current Project
-
-🦀 Microkernel for ESP32-C3 (RISC-V)
-
-Simple RTOS based on the xv6(but my thing is a microkernel), adapted for the RISC-V ESP32-C3 microcontroller.
-
-```text
-[+] Bootloader ............ OK
-[+] UART Driver ........... OK
-[+] Context Switching ..... OK
-[/] Trap handling ......... 80%
-[-] Syscalls .............. 80%
-[\] Memory Management ..... 0%
-[-] IPC ................... 0%
-```
-
-C, Assembly(RISC-V), GNU Linker Script, CMake, gcc(risc64)
-
