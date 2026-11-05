@@ -6,11 +6,9 @@
 
 🏫 I am studying at the Prosoft Systems development school<br>
 
-🧠 I study the architecture of the OS, ARM, x86 and RISC-V<br>
+🧠 I study the architecture of the OS(RTOS), ARM, x86 and RISC-V<br>
 
-❤️ I love RISC-V the most<br>
-
-🛠️ I write low-level code: microkernels, drivers, bare-metal<br>
+🛠️ I write low-level code: microkernel, drivers, bare-metal only(right now)<br>
 
 ## 🔧 Tech Stack
 
